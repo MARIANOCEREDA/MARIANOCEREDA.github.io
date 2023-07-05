@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.5d9a9bf9.js",
+    "main.js": "/static/js/main.70549296.js",
     "static/js/787.10d74c16.chunk.js": "/static/js/787.10d74c16.chunk.js",
     "static/media/marianocereda.jpg": "/static/media/marianocereda.ef44ae5ad9e982356d2b.jpg",
     "index.html": "/index.html",
     "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.5d9a9bf9.js.map": "/static/js/main.5d9a9bf9.js.map",
+    "main.70549296.js.map": "/static/js/main.70549296.js.map",
     "787.10d74c16.chunk.js.map": "/static/js/787.10d74c16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.5d9a9bf9.js"
+    "static/js/main.70549296.js"
   ]
 }
