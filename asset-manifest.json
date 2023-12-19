@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.e107455c.js",
+    "main.js": "/static/js/main.51cc9668.js",
     "static/js/787.10d74c16.chunk.js": "/static/js/787.10d74c16.chunk.js",
     "static/media/marianocereda.jpg": "/static/media/marianocereda.ef44ae5ad9e982356d2b.jpg",
     "static/media/proyecto_cys.png": "/static/media/proyecto_cys.db91bbfce4781b288889.png",
     "index.html": "/index.html",
     "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.e107455c.js.map": "/static/js/main.e107455c.js.map",
+    "main.51cc9668.js.map": "/static/js/main.51cc9668.js.map",
     "787.10d74c16.chunk.js.map": "/static/js/787.10d74c16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.e107455c.js"
+    "static/js/main.51cc9668.js"
   ]
 }
